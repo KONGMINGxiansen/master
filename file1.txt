@@ -1,3 +1,4 @@
 add file1
 modify file1
 modify file1 in local master
+second modify file1 in local master
