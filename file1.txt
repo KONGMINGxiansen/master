@@ -1,5 +1,1 @@
-add file1
-modify file1
-modify file1 in local master
-second modify file1 in local master
-modify file1 in remote master
+update filel
